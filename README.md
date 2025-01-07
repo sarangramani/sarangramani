@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarangramani" alt="sarangramani" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter App development**
-
-- 🤝 I’m looking for help with **Flutter Application**
-
-- 💬 Ask me about **python**
 
 - 📫 How to reach me **sarangramani1@gmail.com**
 
